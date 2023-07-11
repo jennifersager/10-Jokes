@@ -1,0 +1,42 @@
+{
+	"Joke1": [{
+		"joke": "Why do we tell actors to 'break a leg?'",
+		"punchline": "Because every play has a cast."
+	}],
+	"Joke2": [{
+		"joke": "How do you make a tissue dance?",
+		"punchline": "Put a little boogie in it."
+	}],
+	"Joke3": [{
+		"joke": "What do you call a fake noodle?",
+		"punchline": "An impasta!"
+	}],
+	"Joke4": [{
+		"joke": "What did one hat say to the other?",
+		"punchline": "You wait here. I'll go on a head."
+	}],
+	"Joke5": [{
+		"joke": "What do you call a magic dog?",
+		"punchline": "A labracadabrador."
+	}],
+	"Joke6": [{
+		"answer": "What did the shark say when he ate the clownfish?",
+		"punchline": "This tastes a little funny."
+	}],
+	"Joke7": [{
+		"joke": "Why is it annoying to eat next to basketball players?",
+		"punchline": "They dribble all the time."
+	}],
+	"Joke8": [{
+		"joke": "Why aren't koalas actually bears?",
+		"punchline": "They don't meet the koalafications."
+	}],
+	"Joke9": [{
+		"joke": "What type of sandals do frogs wear?",
+		"punchline": "Open-toad."
+	}],
+	"Joke10": [{
+		"joke": "How do you throw a space party?",
+		"punchline": "You planet."
+	}]
+}
